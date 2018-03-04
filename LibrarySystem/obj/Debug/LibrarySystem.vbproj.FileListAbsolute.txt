@@ -1,0 +1,11 @@
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\bin\Debug\Database\LMS.sdf
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.MainWindow.resources

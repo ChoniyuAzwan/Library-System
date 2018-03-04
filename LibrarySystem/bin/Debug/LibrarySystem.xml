@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LibrarySystem
+</name>
+</assembly>
+<members>
+<member name="M:LibrarySystem.DBMSClass.GetColumnCount(System.Int64)">
+	<summary>
+ this function gets the number of columns
+ </summary>
+	<param name="Code"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:LibrarySystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:LibrarySystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:LibrarySystem.DetailedQueueEntryClass.LoadBookingRecord(LibrarySystem.DBMSClass,System.Int64,System.String)">
+	<summary>
+ this function is used to load a queue record
+ </summary>
+	<param name="DBMS"></param>
+	<param name="StudentID"></param>
+	<param name="BookID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:LibrarySystem.DetailedQueueEntryClass.GetBookingListForBook(LibrarySystem.DBMSClass,System.String)">
+	<summary>
+ get list of booking details for a book
+ </summary>
+	<param name="DBMS"></param>
+	<param name="BookID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:LibrarySystem.DetailedQueueEntryClass">
+	<summary>
+ this class represents a record for a given book
+ it shows which student want to borrow which book
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LibrarySystem.QueueClass.InsertQueueEntry(LibrarySystem.DBMSClass,System.String,System.String)">
+	<summary>
+ this method is used to insert new queue entry
+ </summary>
+	<param name="DBMS"></param>
+	<param name="BookBarcode"></param>
+	<param name="StudentID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:LibrarySystem.QueueClass.RemoveQueueEntry(LibrarySystem.DBMSClass,System.String,System.String)">
+	<summary>
+ this method is used to insert new queue entry
+ </summary>
+	<param name="DBMS"></param>
+	<param name="BookBarcode"></param>
+	<param name="StudentID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:LibrarySystem.QueueClass">
+	<summary>
+ this class is used to manage booking queues
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LibrarySystem.BackupRestoreModule.BackupDB(System.String,LibrarySystem.DBMSClass)">
+	<summary>
+ backup the db
+ </summary>
+	<param name="FileName"></param>
+	<remarks></remarks>
+</member><member name="M:LibrarySystem.BackupRestoreModule.RestoreDB(System.String,LibrarySystem.DBMSClass)">
+	<summary>
+ restore the db
+ </summary>
+	<param name="FileName"></param>
+	<remarks></remarks>
+</member><member name="T:LibrarySystem.BackupRestoreModule">
+	<summary>
+ this module is used to backup and restore the database
+ </summary>
+	<remarks></remarks>
+</member><member name="M:LibrarySystem.BookClass.GetBookIDFromBarcode(LibrarySystem.DBMSClass,System.String,System.String@)">
+	<summary>
+ this method is used to get book id from a given barcode
+ </summary>
+	<param name="DBMS"></param>
+	<param name="BookBarcode"></param>
+	<param name="BookID"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

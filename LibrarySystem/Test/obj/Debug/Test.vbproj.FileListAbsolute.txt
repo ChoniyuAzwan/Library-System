@@ -1,0 +1,15 @@
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\Test.exe.config
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\Database\LMS.sdf
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\Test.exe
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\Test.pdb
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\Test.xml
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\LibrarySystem.exe
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\LibrarySystem.pdb
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\bin\Debug\LibrarySystem.xml
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\obj\Debug\Test.Form1.resources
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\obj\Debug\Test.Resources.resources
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\obj\Debug\Test.exe
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\obj\Debug\Test.xml
+D:\IT SOFTWARE APPLICATION\latihan\VB.net Visual Studio\Mkaatr\Developing Library Management System in VB.NET\LibrarySystem\LibrarySystem\Test\obj\Debug\Test.pdb
